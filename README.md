@@ -20,10 +20,10 @@ I'm a Front-end Web & Mobile Application Developer. My experience has provided m
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=santoshnet.santoshnet)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=frontendsourcecode.frontendsourcecode)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshnet" alt="santoshnet" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontendsourcecode" alt="frontendsourcecode" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshnet&show_icons=true&locale=en" alt="santoshnet" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frontendsourcecode&show_icons=true&locale=en" alt="frontendsourcecode" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshnet&" alt="santoshnet" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frontendsourcecode&" alt="frontendsourcecode" /></p>
